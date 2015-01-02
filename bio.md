@@ -1,0 +1,12 @@
+---
+layout: page
+title: Biographical Note
+---
+
+I’m a Ph.D. candidate at Indian Institute of Science, [Indian Institute of Science](http://WWW.iisc.ernet.in/) Bangalore. I work with the Department of Materials Engineering and my advisor, Dr. Suryasarathi Bose. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc malesuada faucibus est, vitae bibendum neque malesuada sed. Aliquam erat volutpat. Cras ut aliquam elit. Mauris vulputate facilisis rhoncus. Fusce non justo non sem consectetur lacinia ac sed nibh. Aliquam ornare posuere fermentum. Donec at convallis ex, a aliquet diam. Duis quis commodo nulla, vitae tempus mi. Phasellus condimentum ligula ante, ut blandit erat semper a. Proin sit amet volutpat ex, non fringilla lacus. Aliquam mollis imperdiet enim, sit amet bibendum urna blandit eu. Vestibulum rhoncus, nibh non porttitor convallis, urna nulla rutrum velit, pharetra ultrices nulla nisl at lacus. Donec eget dictum diam. Proin iaculis quam et lobortis ullamcorper.
+
+Integer sollicitudin pulvinar urna, hendrerit scelerisque nulla. Vivamus vulputate blandit nisi, id auctor magna sagittis nec. Fusce in mollis ipsum. Suspendisse nulla nisl, vestibulum in pharetra sed, blandit ut metus. Proin eros eros, fringilla ut odio placerat, laoreet sollicitudin ex. Aliquam sit amet magna semper, fringilla risus at, hendrerit magna. Ut in lacinia eros. Sed vel ligula faucibus augue lobortis mollis.
+
+Nullam bibendum dictum ornare. Integer pretium venenatis efficitur. Etiam ultrices dictum ornare. In maximus lacus sit amet tortor aliquam, non hendrerit justo ultrices. Phasellus sed metus posuere, iaculis mi vel, viverra lorem. Pellentesque maximus volutpat dolor, eu volutpat arcu commodo sit amet. Pellentesque mollis suscipit eros, id efficitur dolor placerat efficitur. Curabitur venenatis, ante in lobortis tempor, arcu quam convallis urna, ac dictum justo turpis at tortor.
+
+Proin finibus sit amet risus eu vehicula. Duis volutpat massa non metus ullamcorper, mattis mollis mi dictum. Etiam a lectus augue. Sed porta facilisis lacus, eu molestie turpis. Cras vitae nunc imperdiet, laoreet risus eget, rhoncus mauris. Integer congue quam porta mattis commodo. Etiam vel nulla risus. Suspendisse nec pretium est. Aenean vestibulum sit amet purus vel placerat.
