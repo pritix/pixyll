@@ -11,22 +11,18 @@ My primary research involves the study of the ifluence of anisotropic nanopartic
 
 
 #### Journal Papers
-* P Xavier, Suryasarathi Bose, "Multiwall Carbon Nanotubes Induced Miscibility In Near Critical PS/PVME Blends: Assessing Through Concentration Fluctuation And Segmental Relaxation" J Phys Chem B, 2013, 117, 8633
+* P Xavier, Suryasarathi Bose, "Multiwall Carbon Nanotubes Induced Miscibility In Near Critical PS/PVME Blends: Assessing Through Concentration Fluctuation And Segmental Relaxation", *J Phys Chem B*, 2013, 117, 8633.
+* P Xavier, K Sharma, E Kolanthai, K Vasu, A Sood, Suryasarathi Bose, "Reduced graphene oxide induced phase miscibility in polystyrene/poly(vinyl methyl ether) blends", *RSC Advances* 2014, 24, 12376.
+* P Xavier, Suryasarathi Bose, "Non-equilibrium segmental dynamics driven by multiwall carbon nanotubes in PS/PVME blends", *Phys. Chem. Chem. Phys* 2014, 16 (20), 9309 - 9316.
+* P Xavier, Avanish Bharati, Giridhar Madras, Suryasarathi Bose “Unusual demixing behavior in PS/PVME blends in presence of nanoparticles”, *Phys. Chem. Chem. Phys.*, 2014, 16, 21300-21309. 
+* P Xavier, Suryasarathi Bose, “Electromagnetic shielding materials and coatings derived from gelation of multiwall carbon nanotubes in an LCST mixture”, *RSC Adv.*, 2014, 4, 55341-55348.
+* G P Kar * , P Xavier * , Suryasarathi Bose  “Polymer-grafted-multiwall carbon nanotubes functionalized by nitrene chemistry: effect on cooperativity and  phase miscibility”, *Phys. Chem. Chem. Phys.*, 2014, 16, 17811-17821.
+* A. Bharati * , P. Xavier * , G.P. Kar, G. Madras, Suryasarathi Bose, "Nanoparticle Driven Intermolecular Cooperativity and Miscibility in Polystyrene/Poly(vinyl methyl ether) Blends", *J. Phys. Chem. B*, 2014, 118, 2214.
+* G P Kar, A Bharati, P Xavier, Giridhar Madras, Suryasarathi Bose “The key role of polymer grafted nanoparticles in the phase miscibility of an LCST mixture”, *Phys. Chem. Chem. Phys.*, 2015, 17, 868-877.
 
-* P Xavier, K Sharma, E Kolanthai, K Vasu, A Sood, Suryasarathi Bose, "Reduced graphene oxide induced phase miscibility in polystyrene/poly(vinyl methyl ether) blends", RSC Advances 2014, 24, 12376.
-
-* P Xavier, Suryasarathi Bose, "Non-equilibrium segmental dynamics driven by multiwall carbon nanotubes in PS/PVME blends", Phys. Chem. Chem. Phys 2014, 16 (20), 9309 - 9316
-
-* P Xavier, Avanish Bharati, Giridhar Madras, Suryasarathi Bose “Unusual demixing behavior in PS/PVME blends in presence of nanoparticles” Phys. Chem. Chem. Phys., 2014, 16, 21300-21309 
-
-* P Xavier, Suryasarathi Bose, “Electromagnetic shielding materials and coatings derived from gelation of multiwall carbon nanotubes in an LCST mixture” RSC Adv., 2014, 4, 55341-55348
-
-* G P Kar*, P Xavier*, Suryasarathi Bose  “Polymer-grafted-multiwall carbon nanotubes functionalized by nitrene chemistry: effect on cooperativity and  phase miscibility” Phys. Chem. Chem. Phys., 2014, 16, 17811-17821  (*Equal contribution to the work) 
-
-* A. Bharati*, P. Xavier*, G.P. Kar, G. Madras, Suryasarathi Bose, "Nanoparticle Driven Intermolecular Cooperativity and Miscibility in Polystyrene/Poly(vinyl methyl ether) Blends", J. Phys. Chem. B, 2014, 118, 2214. (* Equal contribution to the work)
-
-* G P Kar, A Bharati, P Xavier, Giridhar Madras, Suryasarathi Bose “The key role of polymer grafted nanoparticles in the phase miscibility of an LCST mixture” Phys. Chem. Chem. Phys., 2015, 17, 868-877
-
+<p>
+ * these authors contributed equally to this work
+</p>
 
 
 #### Conference Proceedings
