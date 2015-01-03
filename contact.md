@@ -4,17 +4,17 @@ title: Contact Information
 permalink: /contact/
 ---
 
-![](/images/iisc_logo.png)
-
-**Mailing Address**
+#### Mailing Address
 
 
    *Priti Xavier  
    PhD Student    
    Department of Materials Engineering        
    Indian Institute of Science  
-   Bangalore 560012, India*
+   Bangalore 560012, India* 
 
-**Email**
+#### Email
 
-  *priti.xavier@gmail.com*
+  *[priti.xavier@gmail.com](mailto:priti.xavier@gmail.com)*  
+
+![](/images/iisc_logo.png)
