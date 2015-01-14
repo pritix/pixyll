@@ -3,14 +3,14 @@ title:       Priti Xavier
 email:       priti.xavier@gmail.com
 author:      Priti Xavier
 description: "My academic website." 
-baseurl:     ""
-url:         "http://pritix.github.io"
+baseurl:     "/%7Epriti"
+url:         "http://platinum.materials.iisc.ernet.in/%7Epriti"
 
 # Google analytics
 google_analytics:
 
 # Optional features
-animated:           false
+animated:           true
 show_related_posts: false
 show_post_footers:  false
 

@@ -17,4 +17,4 @@ permalink: /contact/
 
   *[priti.xavier@gmail.com](mailto:priti.xavier@gmail.com)*  
 
-![](/images/iisc_logo.png)
+![](../images/iisc_logo.png)
