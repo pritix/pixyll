@@ -26,15 +26,11 @@ My primary research involves the study of the ifluence of anisotropic nanopartic
 
 
 #### Conference Proceedings
-1. P Xavier, S Bose, “Multiwall carbon nanotubes induced miscibility in PS/PVME blends”, Rangotsav, Advances in polymers and Coatings, ICT , Mumbai, February 15-16, 2013
-2. A Bharati, P Xavier, G Madras, S Bose, “Effect of silver nanoparticles on phase seapartion and segmental dynamics of PS/PVME blends”, Rangotsav, Advances in polymers and Coatings, ICT , Mumbai, February 15-16, 2013
-
-3. P Xavier, S Bose, “Multiwall carbon nanotubes induced miscibility in PS/PVME blends”, International Workshop on Advanced Materials-13, Ras Al Khaima, UAE, February 24-26, 2013
-4. P Xavier, G P Kar, S Bose, “Effect of multiwall carbon nanotubes on the segmental motions and phase separation behavior of near critical PS/PVME blends”, FAPS-Macro, Bangalore,  May 15-18, 2013 
-5. A Bharati, P Xavier, G Madras, S Bose, Effect of silver nanoparticles on phase seapartion and segmental dynamics of PS/PVME blends”, FAPS-Macro, Bangalore,  May 15-18 2013 
-
-6. P Xavier, S Bose, “Rheology as a tool to assess the effect of Multiwall carbon nanotubes (MWNTs) in the demixing of PS/PVME [polystyrene/ poly(vinyl methyl ether)] ”, ICPAM, Kottayam, October 11-13, 2013
-
-7. P Xavier, S Bose,“ Concentration Fluctuation and Segmental Relaxation studies in PS/PVME [polystyrene/poly (vinyl methyl ether)] blends with nanoparticles”, PPS, Mumbai, December 4-7, 2013
-
-8. P Xavier, S Bose, “Confinement effects of MWNTs on the chain dyanamics in dynamically asymmetric polymer blend PS/PVME”, ACS National meeting and exposition, San Francisco, August 10-14, 2014 
+* P Xavier, S Bose, “Multiwall carbon nanotubes induced miscibility in PS/PVME blends”, Rangotsav, Advances in polymers and Coatings, ICT , Mumbai, February 15-16, 2013
+* A Bharati, P Xavier, G Madras, S Bose, “Effect of silver nanoparticles on phase seapartion and segmental dynamics of PS/PVME blends”, Rangotsav, Advances in polymers and Coatings, ICT , Mumbai, February 15-16, 2013
+* P Xavier, S Bose, “Multiwall carbon nanotubes induced miscibility in PS/PVME blends”, International Workshop on Advanced Materials-13, Ras Al Khaima, UAE, February 24-26, 2013
+* P Xavier, G P Kar, S Bose, “Effect of multiwall carbon nanotubes on the segmental motions and phase separation behavior of near critical PS/PVME blends”, FAPS-Macro, Bangalore,  May 15-18, 2013 
+* A Bharati, P Xavier, G Madras, S Bose, Effect of silver nanoparticles on phase seapartion and segmental dynamics of PS/PVME blends”, FAPS-Macro, Bangalore,  May 15-18 2013 
+* P Xavier, S Bose, “Rheology as a tool to assess the effect of Multiwall carbon nanotubes (MWNTs) in the demixing of PS/PVME [polystyrene/ poly(vinyl methyl ether)] ”, ICPAM, Kottayam, October 11-13, 2013
+* P Xavier, S Bose,“ Concentration Fluctuation and Segmental Relaxation studies in PS/PVME [polystyrene/poly (vinyl methyl ether)] blends with nanoparticles”, PPS, Mumbai, December 4-7, 2013
+* P Xavier, S Bose, “Confinement effects of MWNTs on the chain dyanamics in dynamically asymmetric polymer blend PS/PVME”, ACS National meeting and exposition, San Francisco, August 10-14, 2014 
